@@ -1,9 +1,9 @@
 # Ignore source code
-*
+/*
 
 #Editor
-!*/.com.gexetr.gcleditor/
-!*/com.gexetr.gcleditor/
+!.com.gexetr.gcleditor
+!com.gexetr.gcleditor/
 !com.gexetr.gcleditor.meta
 
 #Runtime
